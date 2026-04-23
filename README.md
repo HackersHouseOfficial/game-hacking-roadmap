@@ -1,7 +1,7 @@
 # 🎮 Android Game Hacking Roadmap (Complete Guide)
 
 <p align="center">
-  <img src="./Images/game_hacking_course_poster.png" alt="Android Game Hacking Course Poster" />
+  <img src="game_hacking_course_poster.png" alt="Android Game Hacking Course Poster" />
 </p>
 
 A complete **Android game hacking roadmap** to learn **game hacking**, memory editing, and scripting using tools like Game Guardian.
