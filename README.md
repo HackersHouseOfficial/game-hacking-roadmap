@@ -1,10 +1,10 @@
-# 🎮 Android Game Hacking Roadmap (Complete Guide)
+# 🎮 Android Game Hacking With Mobile (Complete Guide)
 
 <p align="center">
   <img src="game_hacking_course_poster.png" alt="Android Game Hacking Course Poster" />
 </p>
 
-A complete **Android game hacking roadmap** to learn **game hacking**, memory editing, and scripting using tools like Game Guardian.
+A complete **Android game hacking With Mobile** to learn **game hacking**, memory editing, and scripting using tools like Game Guardian. The unique thing about this cource is you do not need a pc, you hack the game and make scripts cheats entirely in your mobile phone.
 
 This roadmap works as a **game hacking course alternative**, guiding you from beginner to advanced level with real techniques used in **video game hacking**.
 
